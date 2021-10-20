@@ -71,6 +71,28 @@ III) Physical Data Model
 4. Loaded sample data using Alteryx
 5. Visualizations on a PowerBI dashboard
 
+Data Dimensional Model:
+
+![image](https://user-images.githubusercontent.com/78456439/138175651-81cc18c8-4e60-4b55-a1f2-5fd39a632f66.png)
+
+Visualizations:
+
+1. Count of students registered in each course
+
+![image](https://user-images.githubusercontent.com/78456439/138175875-b14abba1-6932-4a36-9fe6-2d54eb760487.png)
+
+2. Grades distributiion among students
+
+![image](https://user-images.githubusercontent.com/78456439/138175911-3a4578c3-3136-47f1-b810-011e45dd70da.png)
+
+3. Distribution of faculty over Courses
+
+![image](https://user-images.githubusercontent.com/78456439/138176188-89e1b468-55be-4943-9c97-44db20a9715b.png)
+
+4. Count of Professors teaching different courses
+
+![image](https://user-images.githubusercontent.com/78456439/138176339-c12cd8f5-cb82-42fe-8c28-61f3d40d11f2.png)
+
 
 
 
